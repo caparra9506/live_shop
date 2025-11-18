@@ -1,0 +1,6 @@
+[submodule "live_shop_back"]
+	path = live_shop_back
+	url = https://github.com/caparra9506/live_shop_back
+[submodule "live_shop_front"]
+	path = live_shop_front
+	url = https://github.com/caparra9506/live_shop_front
